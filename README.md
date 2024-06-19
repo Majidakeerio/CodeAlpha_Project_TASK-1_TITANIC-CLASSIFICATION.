@@ -26,7 +26,7 @@ The project involves the following steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/YOUR_USERNAME/CodeAlpha_Project_TitanicClassification.git
+    git clone https://github.com/Majidakeerio/CodeAlpha_Project_TitanicClassification.git
     ```
 2. Navigate to the project directory:
     ```
@@ -50,6 +50,4 @@ The project involves the following steps:
 
 This project uses the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data).
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
